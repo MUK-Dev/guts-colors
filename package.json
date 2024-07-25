@@ -2,8 +2,9 @@
   "name": "guts-colors",
   "displayName": "guts colors",
   "description": "A color theme for berserk fanboys",
-  "version": "0.0.1",
-  "publisher": "V0LAT1LE_",
+  "version": "1.0.0",
+  "publisher": "v0lat1le",
+  "icon": "images/gutsSmiling.jpeg",
   "repository": {
     "type": "git",
     "url": "https://github.com/MUK-Dev/guts-colors"
