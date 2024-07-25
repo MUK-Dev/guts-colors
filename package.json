@@ -1,0 +1,33 @@
+{
+  "name": "guts-colors",
+  "displayName": "guts colors",
+  "description": "A color theme for berserk fanboys",
+  "version": "0.0.1",
+  "publisher": "V0LAT1LE_",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MUK-Dev/guts-colors"
+  },
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "berserk",
+    "color",
+    "dark theme",
+    "guts"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Guts Colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Guts Colors-color-theme.json"
+      }
+    ]
+  }
+}
