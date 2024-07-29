@@ -1,7 +1,7 @@
 {
   "name": "Guts Colors",
   "colors": {
-    "editor.foreground": "#6C0000",
+    "editor.foreground": "#D4D4D4",
     "sideBarTitle.foreground": "#D4D4D4",
     "sideBar.foreground": "#D4D4D4",
     "statusBar.foreground": "#d8905f",
@@ -355,6 +355,12 @@
       }
     },
     {
+      "scope": "entity.name.type.cs",
+      "settings": {
+        "foreground": "#ff6565"
+      }
+    },
+    {
       "scope": [
         "keyword.operator.new",
         "keyword.operator.expression",
@@ -384,6 +390,22 @@
       ],
       "settings": {
         "foreground": "#E0E0E0"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.terminator.statement.cs",
+        "punctuation.definition.typeparameters.begin.cs",
+        "punctuation.definition.typeparameters.end.cs"
+      ],
+      "settings": {
+        "foreground": "#8A0303"
+      }
+    },
+    {
+      "scope": ["constant.numeric.other.suffix.cs"],
+      "settings": {
+        "foreground": "#d8905f"
       }
     },
     {
