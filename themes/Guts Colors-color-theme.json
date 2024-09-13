@@ -333,7 +333,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#ff6565"
+        "foreground": "#D4D4D4"
       }
     },
     {
@@ -538,7 +538,7 @@
         "constant.other.placeholder" // placeholders in strings
       ],
       "settings": {
-        "foreground": "#8A0303"
+        "foreground": "#D4D4D4"
       }
     },
     {
