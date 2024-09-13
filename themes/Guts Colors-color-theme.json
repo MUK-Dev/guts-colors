@@ -40,7 +40,7 @@
     "editorGroupHeader.tabsBackground": "#000",
     "activityBarBadge.background": "#000",
     "activityBar.background": "#0A0A0A",
-    "editorWhitespace.foreground": "#000",
+    "editorWhitespace.foreground": "#8A0303",
     "sideBar.background": "#000",
     "editorRuler.foreground": "#222",
     "sideBar.border": "#D4D4D4",
@@ -140,7 +140,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#E0E0E0"
+        "foreground": "#ff6565"
       }
     },
     {
@@ -333,7 +333,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#E0E0E0"
+        "foreground": "#ff6565"
       }
     },
     {
@@ -538,7 +538,7 @@
         "constant.other.placeholder" // placeholders in strings
       ],
       "settings": {
-        "foreground": "#E0E0E0"
+        "foreground": "#8A0303"
       }
     },
     {
@@ -583,6 +583,16 @@
       ],
       "settings": {
         "foreground": "#AEAEAE"
+      }
+    },
+    {
+      "name": "Regular expression groups",
+      "scope": [
+        "punctuation.definition.tag.end.tsx",
+        "punctuation.definition.tag.begin.tsx",
+      ],
+      "settings": {
+        "foreground": "#8A0303"
       }
     },
     {
